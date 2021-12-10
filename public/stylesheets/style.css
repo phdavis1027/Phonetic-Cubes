@@ -1,0 +1,22 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+svg{
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0;
+}
+.graph-container{
+  position: absolute;
+  overflow: hidden;
+  height: 100%;
+  width: 100%;
+
+}
